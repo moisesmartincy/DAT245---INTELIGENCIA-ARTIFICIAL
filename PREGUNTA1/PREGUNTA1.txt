@@ -1,0 +1,37 @@
+UNIV. CONDORI YUJRA MOISES MARTIN
+1.      ¿Cuál es el área de su interés que le gustaría investigar multidisciplinariamente con IA? Describa en un párrafo las características del área, métodos y metodologías. (Ej. Cáncer de pulmón, comprende que es un cáncer de pulmón, como se detecta, que parámetros clínicos se toma en cuenta para su detección, factores biológicos, físico y otros).
+Respuesta:
+Área de Interés: Análisis de Rendimiento y Predicción de Resultados en la Premier League usando IA
+El análisis del rendimiento deportivo en ligas de fútbol, como la Premier League, puede beneficiarse enormemente de la inteligencia artificial. Este campo abarca el estudio de jugadores, equipos y resultados a través de datos históricos y en tiempo real. Se podrían utilizar metodologías de aprendizaje automático y análisis predictivo para identificar patrones y tendencias en los datos, como predicción de resultados, evaluación del rendimiento de jugadores y análisis táctico de los equipos.
+El dataset incluiría una variedad de características como:
+•	Estadísticas de partidos: número de goles, posesión, tiros a puerta, tarjetas amarillas/rojas, faltas cometidas, entre otros.
+•	Rendimiento de jugadores: datos individuales sobre goles, asistencias, pases completados, kilometraje recorrido, y rendimiento físico.
+•	Características de los equipos: alineaciones, tácticas, formaciones utilizadas, cambios realizados durante el partido.
+•	Parámetros adicionales: condiciones del clima, la localización del partido (local o visitante), estado del césped, y otros factores externos que puedan influir en los resultados.
+Las columnas de mi datasets son:
+Acerca del conjunto de datos
+Descripción de las características
+date : la fecha del juego
+time : la hora del juego
+comp : la competición del juego
+round : la ronda del juego
+day : el día de la semana del juego
+venue : la sede del juego
+result : el resultado del juego
+golesloc : los goles del equipo local
+golesvis : los goles del equipo visitante
+opponent : el oponente del equipo local
+golesesploc : los goles esperados para el equipo local
+golesespvis : los goles esperados para el equipo visitante
+poss : la posesión del equipo local
+captain : el capitán del equipo local
+formation : la formación del equipo local
+referee : el árbitro del juego
+tirosloc : los tiros del equipo local
+tirosalarco : los tiros a puerta del equipo local
+distpromtir : la distancia promedio de los tiros del equipo local
+tiroslibloc : los tiros libres del equipo local
+tirospenloc : los tiros penales del equipo local equipo
+tirospenintloc: los tiros penales que ha intentado el equipo local
+season: la temporada del año del partido
+team: el equipo local
